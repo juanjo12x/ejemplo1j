@@ -16,10 +16,6 @@ import java.util.List;
 import com.example.model.Club;
 import com.example.repository.ClubRepository;
 
-/**
- * Created by Sebastian on 03-Apr-16.
- */
-
 @RestController
 @RequestMapping("api/")
 public class ClubController {
